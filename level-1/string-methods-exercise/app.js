@@ -51,5 +51,9 @@
 
 // console.log(changedStr)
 
+var returnFirstHalf = ("Hello")
+var capFirstHalf = returnFirstHalf.substring(0, 3).toUpperCase() + returnFirstHalf.substring(3)
+console.log(capFirstHalf)
+
 
 
